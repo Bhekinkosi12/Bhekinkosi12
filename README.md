@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Bhekinkosi Kubheka</h1>
+<h1 align="center">Greetings 👋, I'm Bhekinkosi Kubheka</h1>
 <h3 align="center">A full stack and mobile software engineer</h3>
 
 - 🔭 I’m currently working on **MzansiGO**
