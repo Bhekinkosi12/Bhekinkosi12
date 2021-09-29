@@ -20,6 +20,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://firstporfolio.azurewebsites.net/Home/Privacy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Bhekinkosi Kubheka" /></a></p><br><br>
 
-<h2 align="center">Mzansi Go pro</h3>
+<h2 align="center">Mzansi Go pro</h2>
 
-<img scr="Projects/mzansi3.jpg" />
+
+![](Projects/mzansi4.jpg)
