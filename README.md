@@ -22,5 +22,4 @@
 
 <h2 align="center">Mzansi Go pro</h2>
 
-
-![](Projects/mzansi4.jpg)
+<img src="Projects/mzansi4.jpg" height="450" align="center" />
