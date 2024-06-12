@@ -1,11 +1,9 @@
 <h1 align="center">Greetings 👋, I'm Bhekinkosi Kubheka</h1>
 <h3 align="center">A full stack and mobile software engineer</h3>
 
-- 🔭 I’m currently working on **MzansiGOMall & Psalms**
-
 - 🌱 I’m currently using **ASP dotnet mvc, Blazor, React js, Api development**
 
-- 👨‍💻 All of my projects are available at [https://www.bhekinkosi.mzansogomall.co.za](https://www.bhekinkosi.mzansogomall.co.za)
+- 👨‍💻 All of my projects are available at [https://www.zonkemall.com](https://www.zonkemall.com)
 
 - 📫 How to reach me **bhekinkosikubheka21@gmail.com**
 
